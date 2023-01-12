@@ -36,3 +36,6 @@ debug
 bin
 obj
 .vs
+
+# Test Results
+Profiler.log
